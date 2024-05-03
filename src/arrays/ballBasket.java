@@ -1,3 +1,5 @@
+package arrays;
+
 import java.io.*;
 import java.util.StringTokenizer;
 //https://www.acmicpc.net/problem/10810
