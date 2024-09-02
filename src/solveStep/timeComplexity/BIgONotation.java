@@ -1,4 +1,4 @@
-package timeComplexity;
+package solveStep.timeComplexity;
 //https://www.acmicpc.net/problem/24262
 public class BIgONotation {
     public static void main(String[] args) {

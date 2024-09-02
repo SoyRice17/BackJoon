@@ -1,4 +1,4 @@
-package timeComplexity;
+package solveStep.timeComplexity;
 
 import java.io.BufferedReader;
 import java.io.IOException;

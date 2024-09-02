@@ -1,4 +1,4 @@
-package string;
+package solveStep.string;
 
 import java.io.BufferedReader;
 import java.io.IOException;
